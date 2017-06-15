@@ -10,7 +10,7 @@ This repo is used as my own android lab to try out some fancy features I've foun
 - [ ] [Service](https://developer.android.com/guide/components/services.html)
 - [ ] Firebase
 - [ ] [Room Persistence](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
-- [ ] DataBinding in android (LiveData?) --> Master Detail app
+- [ ] DataBinding in android (RxAndroid? LiveData?) --> Master Detail app
 - [ ] Push notifications
 
 
