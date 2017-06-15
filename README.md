@@ -6,7 +6,9 @@ This repo is used as my own android lab to try out some fancy features I've foun
 
 ## To-Do (Personal reminder)
 
-- [ ] Firebase (Auth, Database...)
+- [ ] [App Auth](https://codelabs.developers.google.com/codelabs/appauth-android-codelab/#0)
+- [ ] [Service](https://developer.android.com/guide/components/services.html)
+- [ ] Firebase
 - [ ] [Room Persistence](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
 - [ ] DataBinding in android (LiveData?) --> Master Detail app
 - [ ] Push notifications
