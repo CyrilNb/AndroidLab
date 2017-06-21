@@ -2,7 +2,7 @@
 This repo is used as my own android lab to try out some fancy features I've found and to learn new android stuff
 
 ## Projects done (links)
-
+- [DaniilApp](https://github.com/CyrilNb/DaniilApp)
 
 ## To-Do (Personal reminder)
 
@@ -12,6 +12,7 @@ This repo is used as my own android lab to try out some fancy features I've foun
 - [ ] [Room Persistence](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
 - [ ] DataBinding in android (RxAndroid? LiveData?) --> Master Detail app
 - [ ] Push notifications
+- [X] [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 
 
 License
