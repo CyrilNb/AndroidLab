@@ -12,6 +12,7 @@ This repo is used as my own android lab to try out some fancy features I've foun
 - [ ] [Room Persistence](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
 - [ ] DataBinding in android (RxAndroid? LiveData?) --> Master Detail app
 - [ ] Push notifications
+- [ ] Butterknife
 - [X] [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 
 
