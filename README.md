@@ -2,17 +2,21 @@
 This repo is used as my own android lab to try out some fancy features I've found and to learn new android stuff
 
 ## Projects done (links)
+- [PimpMytrip](https://github.com/CyrilNb/PimpMytrip)
 - [DaniilApp](https://github.com/CyrilNb/DaniilApp)
 
 ## To-Do (Personal reminder)
 
+- [ ] RxJava
+- [ ] Firebase
 - [ ] [App Auth](https://codelabs.developers.google.com/codelabs/appauth-android-codelab/#0)
 - [ ] [Service](https://developer.android.com/guide/components/services.html)
-- [ ] Firebase
 - [ ] [Room Persistence](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
 - [ ] DataBinding in android (RxAndroid? LiveData?) --> Master Detail app
 - [ ] Push notifications
-- [ ] Butterknife
+- [X] Firebase database
+- [X] Volley
+- [X] Butterknife
 - [X] [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 
 
