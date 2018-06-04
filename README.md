@@ -8,7 +8,7 @@ This repo is used as my own android lab to try out some fancy features I've foun
 ## To-Do (Personal reminder)
 
 - [ ] RxJava
-- [ ] Firebase
+- [ ] Firebase Remote Config
 - [ ] [App Auth](https://codelabs.developers.google.com/codelabs/appauth-android-codelab/#0)
 - [ ] [Service](https://developer.android.com/guide/components/services.html)
 - [ ] [Room Persistence](https://codelabs.developers.google.com/codelabs/android-persistence/#0)
